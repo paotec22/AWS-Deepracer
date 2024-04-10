@@ -1,0 +1,1 @@
+Model v3 is a breakthrough model that was able to after reinforcement training was able to move around the track in 00:49:407. 

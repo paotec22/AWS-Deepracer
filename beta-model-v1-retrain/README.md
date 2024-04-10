@@ -1,0 +1,1 @@
+retained version of beta-model-v1 was able to achieve shorter race time of 00:46:131

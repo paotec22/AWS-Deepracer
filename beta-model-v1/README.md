@@ -1,0 +1,1 @@
+Model was able to achieve a faster race time of 00:47:002 reinforcement training of uno-model-v3.
